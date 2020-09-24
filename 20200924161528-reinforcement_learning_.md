@@ -1,7 +1,7 @@
 ---
 title: Reinforcement Learning 
 date: 2020-09-24 16:15
-tags: :reinforcement-learning:literature-note:introduction:
+tags: :reinforcement-learning:literature-note:introduction:book:
 type: note
 ---
 
@@ -54,7 +54,6 @@ type: note
           find - or if a lot of time is available for the search, then evolutionary methods can be effective. 
 * Classical optimization methods for sequential decision problems, such as dynamic programming, can *compute* an optimal
   solution for any problem, but require as input a complete specification of that problem.
-* :cole 
 * $V(S_{t}) \leftarrow V(S_{t}) + \alpha \left[V(S_{t+1}) - V(S_{t}) \right]$
     - This update rule is an example of *temporal-difference* learning methods, so called its changes are based on a
       difference, $V(S_{t+1}) - V(S_{t})$, between estimates  at two successive times.

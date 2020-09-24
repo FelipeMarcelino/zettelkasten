@@ -7,10 +7,22 @@
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
 Backlink:	20200924161528-reinforcement_learning_.md	/^Backlink: $/;"	s
+Backlink:	20200924180156-exercises_rl_sutton.md	/^Backlink: $/;"	s
+Chapter 1	20200924180156-exercises_rl_sutton.md	/^## Chapter 1$/;"	s
+Exercise 1	20200924180156-exercises_rl_sutton.md	/^### Exercise 1 $/;"	S
+Exercise 2	20200924180156-exercises_rl_sutton.md	/^### Exercise 2$/;"	S
+Exercise 3	20200924180156-exercises_rl_sutton.md	/^### Exercise 3$/;"	S
+Exercise 4	20200924180156-exercises_rl_sutton.md	/^### Exercise 4$/;"	S
+Exercise 5	20200924180156-exercises_rl_sutton.md	/^### Exercise 5$/;"	S
 Generated Tags	zettelkasten.md	/^# Generated Tags$/;"	c
+RL Sutton - Exercises #	20200924180156-exercises_rl_sutton.md	/^# RL Sutton - Exercises # $/;"	c
 Reinforcement Learning  #	20200924161528-reinforcement_learning_.md	/^# Reinforcement Learning  # $/;"	c
 Unlinked Notes	zettelkasten.md	/^# Unlinked Notes$/;"	c
+book	zettelkasten.md	/^## book$/;"	s
+exercises	zettelkasten.md	/^## exercises$/;"	s
 introduction	zettelkasten.md	/^## introduction$/;"	s
 literature-note	zettelkasten.md	/^## literature-note$/;"	s
+practice	zettelkasten.md	/^## practice$/;"	s
 reinforcement-learning	zettelkasten.md	/^## reinforcement-learning$/;"	s
 type: note	20200924161528-reinforcement_learning_.md	/^type: note$/;"	s
+type: note	20200924180156-exercises_rl_sutton.md	/^type: note$/;"	s

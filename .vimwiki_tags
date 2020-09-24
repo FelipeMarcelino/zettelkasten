@@ -5,6 +5,10 @@
 !_TAG_PROGRAM_NAME	Vimwiki Tags
 !_TAG_PROGRAM_URL	https://github.com/vimwiki/vimwiki
 !_TAG_PROGRAM_VERSION	2.5
+book	20200924161528-reinforcement_learning_.md	4;"	vimwiki:20200924161528-reinforcement_learning_\t20200924161528-reinforcement_learning_#book
+exercises	20200924180156-exercises_rl_sutton.md	4;"	vimwiki:20200924180156-exercises_rl_sutton\t20200924180156-exercises_rl_sutton#exercises
 introduction	20200924161528-reinforcement_learning_.md	4;"	vimwiki:20200924161528-reinforcement_learning_\t20200924161528-reinforcement_learning_#introduction
 literature-note	20200924161528-reinforcement_learning_.md	4;"	vimwiki:20200924161528-reinforcement_learning_\t20200924161528-reinforcement_learning_#literature-note
+practice	20200924180156-exercises_rl_sutton.md	4;"	vimwiki:20200924180156-exercises_rl_sutton\t20200924180156-exercises_rl_sutton#practice
 reinforcement-learning	20200924161528-reinforcement_learning_.md	4;"	vimwiki:20200924161528-reinforcement_learning_\t20200924161528-reinforcement_learning_#reinforcement-learning
+reinforcement-learning	20200924180156-exercises_rl_sutton.md	4;"	vimwiki:20200924180156-exercises_rl_sutton\t20200924180156-exercises_rl_sutton#reinforcement-learning
