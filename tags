@@ -6,23 +6,66 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
-Backlink:	20200924161528-reinforcement_learning_.md	/^Backlink: $/;"	s
-Backlink:	20200924180156-exercises_rl_sutton.md	/^Backlink: $/;"	s
+Action-Value Methods	20200928190836-action-value_methods.md	/^# Action-Value Methods #$/;"	c
+Action-Value-Method Incremental Implementation	20200929172744-value-method_incremental_implementation.md	/^# Action-Value-Method Incremental Implementation #$/;"	c
+Backlink:	20200924161528-reinforcement_learning_.md	/^Backlink:$/;"	s
+Backlink:	20200924180156-exercises_rl_sutton.md	/^Backlink:$/;"	s
+Backlink:	20200929194903-upper-confidence-bound_action_selection.md	/^Backlink:$/;"	s
+Backlink:	20200929213228-three_keys_to_language_learning.md	/^Backlink:$/;"	s
+Backlink:	20200929215057-five_principles_to_end_forgetting.md	/^Backlink:$/;"	s
+Backlink: [Action-Value Methods](20200928190836-action-value_methods.md)	20200929172744-value-method_incremental_implementation.md	/^Backlink: [Action-Value Methods](20200928190836-action-value_methods.md)$/;"	s
+Backlink: [Action-Value Methods](20200928190836-action-value_methods.md)	20200929192801-optimistic_initital_values.md	/^Backlink: [Action-Value Methods](20200928190836-action-value_methods.md)$/;"	s
+Backlink: [Five Principles to End Forgetting](20200929215057-five_principles_to_end_forgetting.md)	20200929215147-make_memories_more_memorable.md	/^Backlink: [Five Principles to End Forgetting](20200929215057-five_principles_to_end_forgetting.m/;"	s
+Backlink: [Multi-Armed Bandits](20200928183306-multi-armed_bandits_.md)	20200928190836-action-value_methods.md	/^Backlink: [Multi-Armed Bandits](20200928183306-multi-armed_bandits_.md)$/;"	s
+Backlink: [Reinforcement Learning](20200924161528-reinforcement_learning_.md)	20200928183306-multi-armed_bandits_.md	/^Backlink: [Reinforcement Learning](20200924161528-reinforcement_learning_.md)$/;"	s
+Backlink: [Reinforcement Learning](20200924161528-reinforcement_learning_.md)	20200928183439-exploration_and_exploitation.md	/^Backlink: [Reinforcement Learning](20200924161528-reinforcement_learning_.md)$/;"	s
 Chapter 1	20200924180156-exercises_rl_sutton.md	/^## Chapter 1$/;"	s
-Exercise 1	20200924180156-exercises_rl_sutton.md	/^### Exercise 1 $/;"	S
+Chapter 2	20200924180156-exercises_rl_sutton.md	/^## Chapter 2$/;"	s
+Exercise 1	20200924180156-exercises_rl_sutton.md	/^### Exercise 1$/;"	S
 Exercise 2	20200924180156-exercises_rl_sutton.md	/^### Exercise 2$/;"	S
 Exercise 3	20200924180156-exercises_rl_sutton.md	/^### Exercise 3$/;"	S
 Exercise 4	20200924180156-exercises_rl_sutton.md	/^### Exercise 4$/;"	S
 Exercise 5	20200924180156-exercises_rl_sutton.md	/^### Exercise 5$/;"	S
+Exploration and Exploitation.	20200928183439-exploration_and_exploitation.md	/^# Exploration and Exploitation. #$/;"	c
+Five Principles to End Forgetting	20200929215057-five_principles_to_end_forgetting.md	/^# Five Principles to End Forgetting #$/;"	c
 Generated Tags	zettelkasten.md	/^# Generated Tags$/;"	c
-RL Sutton - Exercises #	20200924180156-exercises_rl_sutton.md	/^# RL Sutton - Exercises # $/;"	c
-Reinforcement Learning  #	20200924161528-reinforcement_learning_.md	/^# Reinforcement Learning  # $/;"	c
+Make Memories More Memorable	20200929215147-make_memories_more_memorable.md	/^# Make Memories More Memorable #$/;"	c
+Multi-Armed Bandits	20200928183306-multi-armed_bandits_.md	/^# Multi-Armed Bandits  #$/;"	c
+Non-stationary Problem	20200929172744-value-method_incremental_implementation.md	/^## Non-stationary Problem$/;"	s
+Optimistic Initial Values	20200929192801-optimistic_initital_values.md	/^# Optimistic Initial Values #$/;"	c
+RL Sutton - Exercises	20200924180156-exercises_rl_sutton.md	/^# RL Sutton - Exercises #$/;"	c
+Reinforcement Learning	20200924161528-reinforcement_learning_.md	/^# Reinforcement Learning  #$/;"	c
+Three Keys to Language Learning	20200929213228-three_keys_to_language_learning.md	/^# Three Keys to Language Learning #$/;"	c
 Unlinked Notes	zettelkasten.md	/^# Unlinked Notes$/;"	c
+Upper-Confidence-Bound Action Selection	20200929194903-upper-confidence-bound_action_selection.md	/^# Upper-Confidence-Bound Action Selection #$/;"	c
+action-value	zettelkasten.md	/^## action-value$/;"	s
+algorithm	zettelkasten.md	/^## algorithm$/;"	s
+armed-bandits	zettelkasten.md	/^## armed-bandits$/;"	s
+behavior	zettelkasten.md	/^## behavior$/;"	s
 book	zettelkasten.md	/^## book$/;"	s
+example	zettelkasten.md	/^## example$/;"	s
 exercises	zettelkasten.md	/^## exercises$/;"	s
+exploration	zettelkasten.md	/^## exploration$/;"	s
+how-remember-things	zettelkasten.md	/^## how-remember-things$/;"	s
+images	zettelkasten.md	/^## images$/;"	s
+initial-condition	zettelkasten.md	/^## initial-condition$/;"	s
 introduction	zettelkasten.md	/^## introduction$/;"	s
+language	zettelkasten.md	/^## language$/;"	s
+learning	zettelkasten.md	/^## learning$/;"	s
 literature-note	zettelkasten.md	/^## literature-note$/;"	s
+method	zettelkasten.md	/^## method$/;"	s
 practice	zettelkasten.md	/^## practice$/;"	s
+principles	zettelkasten.md	/^## principles$/;"	s
 reinforcement-learning	zettelkasten.md	/^## reinforcement-learning$/;"	s
 type: note	20200924161528-reinforcement_learning_.md	/^type: note$/;"	s
 type: note	20200924180156-exercises_rl_sutton.md	/^type: note$/;"	s
+type: note	20200928183306-multi-armed_bandits_.md	/^type: note$/;"	s
+type: note	20200928183439-exploration_and_exploitation.md	/^type: note$/;"	s
+type: note	20200928190836-action-value_methods.md	/^type: note$/;"	s
+type: note	20200929172744-value-method_incremental_implementation.md	/^type: note$/;"	s
+type: note	20200929192801-optimistic_initital_values.md	/^type: note$/;"	s
+type: note	20200929194903-upper-confidence-bound_action_selection.md	/^type: note$/;"	s
+type: note	20200929213228-three_keys_to_language_learning.md	/^type: note$/;"	s
+type: note	20200929215057-five_principles_to_end_forgetting.md	/^type: note$/;"	s
+type: note	20200929215147-make_memories_more_memorable.md	/^type: note$/;"	s
+variation	zettelkasten.md	/^## variation$/;"	s
