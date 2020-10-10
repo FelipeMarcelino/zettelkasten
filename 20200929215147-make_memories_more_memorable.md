@@ -1,7 +1,7 @@
 ---
 title: Make Memories More Memorable
 date: 2020-09-29 21:51
-tags: :images:method:how-remember-things:language:
+tags: :images:method:how-remember-things:language:literature-note:
 type: note
 ---
 
