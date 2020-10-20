@@ -16,13 +16,16 @@ type: note
 - They are more strong from top to bottom. Hence, personal connection is the most efficient way to our brain memorize
   and recover information
 - "The four levels of processing are more than a biological quirk: they act as a filter, protecting us from
-  information overload", Fluent Forever, Gabriel Wyner, Page 20
+  information overload", (Fluent Forever,W. Gabriel , Page 20)
   * Our brain consistently works at the shallowest level of processing needed to get the job done.
 - **Structure**:  Allow you to recognize patterns of letter, for example:
   - *odctor* = *doctor*
   - It involves too little of your brain to contribute much to memory
 - **Sound**: Connects structure to your years and your mouth and allows you to speak.
   - Rhyme is a good way to use get through filter sound
+  - [Pronunciation and Broken Words](20201010172915-pronunciation_and_broken_words.md)I
+  - [Minimal Pair Testing](20201010173941-minimal_pair_testing_.md)I
+  - [Input Sources](20201016163514-input_sources.md)
 - **Concept**:
   - Abstract: If you have a conversation about a specific holiday like Carnival in Brazil, your brain will make
     association with a data between February and March

@@ -6,14 +6,19 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
+- [Learn Important Words First](20201012170348-learn_important_words_first.md)	zettelkasten.md	/^- [Learn Important Words First](20201012170348-learn_important_words_first.md)$/;"	s
 Action-Value Methods	20200928190836-action-value_methods.md	/^# Action-Value Methods #$/;"	c
 Action-Value-Method Incremental Implementation	20200929172744-value-method_incremental_implementation.md	/^# Action-Value-Method Incremental Implementation #$/;"	c
+Back-chaining	20201011185351-back-chaining.md	/^# Back-chaining #$/;"	c
 Backlink:	20200924161528-reinforcement_learning_.md	/^Backlink:$/;"	s
 Backlink:	20200924180156-exercises_rl_sutton.md	/^Backlink:$/;"	s
 Backlink:	20200929194903-upper-confidence-bound_action_selection.md	/^Backlink:$/;"	s
 Backlink:	20200929213228-three_keys_to_language_learning.md	/^Backlink:$/;"	s
 Backlink:	20200929215057-five_principles_to_end_forgetting.md	/^Backlink:$/;"	s
 Backlink:	20201010165049-spaced_repition_systems_and_flashcards.md	/^Backlink:$/;"	s
+Backlink:	20201012170348-learn_important_words_first.md	/^Backlink:$/;"	s
+Backlink:	20201013010729-language_grammar.md	/^Backlink:$/;"	s
+Backlink:	20201016164126-speaking_in_target_language_always_.md	/^Backlink:$/;"	s
 Backlink: [Action-Value Methods](20200928190836-action-value_methods.md)	20200929172744-value-method_incremental_implementation.md	/^Backlink: [Action-Value Methods](20200928190836-action-value_methods.md)$/;"	s
 Backlink: [Action-Value Methods](20200928190836-action-value_methods.md)	20200929192801-optimistic_initital_values.md	/^Backlink: [Action-Value Methods](20200928190836-action-value_methods.md)$/;"	s
 Backlink: [Five Principles to End Forgetting](20200929215057-five_principles_to_end_forgetting.md)	20200929215147-make_memories_more_memorable.md	/^Backlink: [Five Principles to End Forgetting](20200929215057-five_principles_to_end_forgetting.m/;"	s
@@ -21,7 +26,14 @@ Backlink: [Five Principles to End Forgetting](20200929215057-five_principles_to_
 Backlink: [Five Principles to End Forgetting](20200929215057-five_principles_to_end_forgetting.md)	20200930173441-don't_review_recall.md	/^Backlink: [Five Principles to End Forgetting](20200929215057-five_principles_to_end_forgetting.m/;"	s
 Backlink: [Five Principles to End Forgetting](20200929215057-five_principles_to_end_forgetting.md)	20200930174635-wait_wait_don't_tell_me.md	/^Backlink: [Five Principles to End Forgetting](20200929215057-five_principles_to_end_forgetting.m/;"	s
 Backlink: [Five Principles to End Forgetting](20200929215057-five_principles_to_end_forgetting.md)	20200930175032-rewrite_the_past.md	/^Backlink: [Five Principles to End Forgetting](20200929215057-five_principles_to_end_forgetting.m/;"	s
+Backlink: [Flashcards](20201010165249-flashcards.md)	20201017155430-learn_language_with_flashcards.md	/^Backlink: [Flashcards](20201010165249-flashcards.md)$/;"	s
+Backlink: [Language's Grammar](20201013010729-language_grammar.md)	20201014150909-pao-person-action-object.md	/^Backlink: [Language's Grammar](20201013010729-language_grammar.md)$/;"	s
+Backlink: [Learn Important Words First](20201012170348-learn_important_words_first.md)	20201016160245-thematic_vocabulary.md	/^Backlink: [Learn Important Words First](20201012170348-learn_important_words_first.md)$/;"	s
+Backlink: [Make Memories More Memorable](20200929215147-make_memories_more_memorable.md)	20201010172915-pronunciation_and_broken_words.md	/^Backlink: [Make Memories More Memorable](20200929215147-make_memories_more_memorable.md)$/;"	s
+Backlink: [Make Memories More Memorable](20200929215147-make_memories_more_memorable.md)	20201016163515-input_sources.md	/^Backlink: [Make Memories More Memorable](20200929215147-make_memories_more_memorable.md)$/;"	s
 Backlink: [Multi-Armed Bandits](20200928183306-multi-armed_bandits_.md)	20200928190836-action-value_methods.md	/^Backlink: [Multi-Armed Bandits](20200928183306-multi-armed_bandits_.md)$/;"	s
+Backlink: [Pronunciation and Broken Words](20201010172915-pronunciation_and_broken_words.md)	20201010173941-minimal_pair_testing_.md	/^Backlink: [Pronunciation and Broken Words](20201010172915-pronunciation_and_broken_words.md)$/;"	s
+Backlink: [Pronunciation and Broken Words](20201010172915-pronunciation_and_broken_words.md)	20201011185351-back-chaining.md	/^Backlink: [Pronunciation and Broken Words](20201010172915-pronunciation_and_broken_words.md)$/;"	s
 Backlink: [Reinforcement Learning](20200924161528-reinforcement_learning_.md)	20200928183306-multi-armed_bandits_.md	/^Backlink: [Reinforcement Learning](20200924161528-reinforcement_learning_.md)$/;"	s
 Backlink: [Reinforcement Learning](20200924161528-reinforcement_learning_.md)	20200928183439-exploration_and_exploitation.md	/^Backlink: [Reinforcement Learning](20200924161528-reinforcement_learning_.md)$/;"	s
 Backlink: [Spaced Repetition Systems and Flashcards](20201010165049-spaced_repition_systems_and_flashcards.md)	20201010165249-flashcards.md	/^Backlink: [Spaced Repetition Systems and Flashcards](20201010165049-spaced_repition_systems_and_/;"	s
@@ -37,38 +49,62 @@ Exploration and Exploitation.	20200928183439-exploration_and_exploitation.md	/^#
 Five Principles to End Forgetting	20200929215057-five_principles_to_end_forgetting.md	/^# Five Principles to End Forgetting #$/;"	c
 Flashcards	20201010165249-flashcards.md	/^# Flashcards #$/;"	c
 Generated Tags	zettelkasten.md	/^# Generated Tags$/;"	c
+Input Sources	20201016163515-input_sources.md	/^# Input Sources #$/;"	c
+Language's Grammar#	20201013010729-language_grammar.md	/^# Language's Grammar#$/;"	c
+Learn Important Words First	20201012170348-learn_important_words_first.md	/^# Learn Important Words First #$/;"	c
+Learn Language with Flashcards	20201017155430-learn_language_with_flashcards.md	/^# Learn Language with Flashcards #$/;"	c
 Make Memories More Memorable	20200929215147-make_memories_more_memorable.md	/^# Make Memories More Memorable #$/;"	c
 Maximize Laziness	20200930172453-maximize_laziness.md	/^# Maximize Laziness #$/;"	c
+Minimal Pair Testing	20201010173941-minimal_pair_testing_.md	/^# Minimal Pair Testing  #$/;"	c
 Multi-Armed Bandits	20200928183306-multi-armed_bandits_.md	/^# Multi-Armed Bandits  #$/;"	c
 Non-stationary Problem	20200929172744-value-method_incremental_implementation.md	/^## Non-stationary Problem$/;"	s
 Optimistic Initial Values	20200929192801-optimistic_initital_values.md	/^# Optimistic Initial Values #$/;"	c
+PAO(Person-Action-Object)	20201014150909-pao-person-action-object.md	/^# PAO(Person-Action-Object) #$/;"	c
+Pronunciation and Broken Words	20201010172915-pronunciation_and_broken_words.md	/^# Pronunciation and Broken Words #$/;"	c
 RL Sutton - Exercises	20200924180156-exercises_rl_sutton.md	/^# RL Sutton - Exercises #$/;"	c
 Reinforcement Learning	20200924161528-reinforcement_learning_.md	/^# Reinforcement Learning  #$/;"	c
 Rewrite The Past	20200930175032-rewrite_the_past.md	/^# Rewrite The Past #$/;"	c
 Spaced Repetition Systems and Flashcards	20201010165049-spaced_repition_systems_and_flashcards.md	/^# Spaced Repetition Systems and Flashcards #$/;"	c
+Speaking In Target Language Always	20201016164126-speaking_in_target_language_always_.md	/^# Speaking In Target Language Always  #$/;"	c
+Thematic Vocabulary	20201016160245-thematic_vocabulary.md	/^# Thematic Vocabulary #$/;"	c
 Three Keys to Language Learning	20200929213228-three_keys_to_language_learning.md	/^# Three Keys to Language Learning #$/;"	c
 Unlinked Notes	zettelkasten.md	/^# Unlinked Notes$/;"	c
 Upper-Confidence-Bound Action Selection	20200929194903-upper-confidence-bound_action_selection.md	/^# Upper-Confidence-Bound Action Selection #$/;"	c
 Wait, Wait! Don't Tell Me	20200930174635-wait_wait_don't_tell_me.md	/^# Wait, Wait! Don't Tell Me #$/;"	c
 action-value	zettelkasten.md	/^## action-value$/;"	s
 algorithm	zettelkasten.md	/^## algorithm$/;"	s
+anki	zettelkasten.md	/^## anki$/;"	s
 armed-bandits	zettelkasten.md	/^## armed-bandits$/;"	s
 behavior	zettelkasten.md	/^## behavior$/;"	s
 book	zettelkasten.md	/^## book$/;"	s
 example	zettelkasten.md	/^## example$/;"	s
 exercises	zettelkasten.md	/^## exercises$/;"	s
 exploration	zettelkasten.md	/^## exploration$/;"	s
+flashcard	zettelkasten.md	/^## flashcard$/;"	s
+flashcars	zettelkasten.md	/^## flashcars$/;"	s
+fluent	zettelkasten.md	/^## fluent$/;"	s
+grammar	zettelkasten.md	/^## grammar$/;"	s
 how-remember-things	zettelkasten.md	/^## how-remember-things$/;"	s
+how-to-remember	zettelkasten.md	/^## how-to-remember$/;"	s
 images	zettelkasten.md	/^## images$/;"	s
 initial-condition	zettelkasten.md	/^## initial-condition$/;"	s
 introduction	zettelkasten.md	/^## introduction$/;"	s
 language	zettelkasten.md	/^## language$/;"	s
+learn	zettelkasten.md	/^## learn$/;"	s
 learning	zettelkasten.md	/^## learning$/;"	s
+listening	zettelkasten.md	/^## listening$/;"	s
 literature-note	zettelkasten.md	/^## literature-note$/;"	s
+memorize	zettelkasten.md	/^## memorize$/;"	s
 method	zettelkasten.md	/^## method$/;"	s
+pattern	zettelkasten.md	/^## pattern$/;"	s
 practice	zettelkasten.md	/^## practice$/;"	s
-principles	zettelkasten.md	/^## principles$/;"	s
+principle	zettelkasten.md	/^## principle$/;"	s
+pronunciation	zettelkasten.md	/^## pronunciation$/;"	s
 reinforcement-learning	zettelkasten.md	/^## reinforcement-learning$/;"	s
+sound	zettelkasten.md	/^## sound$/;"	s
+spaced-repetition	zettelkasten.md	/^## spaced-repetition$/;"	s
+system	zettelkasten.md	/^## system$/;"	s
+training	zettelkasten.md	/^## training$/;"	s
 type: note	20200924161528-reinforcement_learning_.md	/^type: note$/;"	s
 type: note	20200924180156-exercises_rl_sutton.md	/^type: note$/;"	s
 type: note	20200928183306-multi-armed_bandits_.md	/^type: note$/;"	s
@@ -86,4 +122,15 @@ type: note	20200930174635-wait_wait_don't_tell_me.md	/^type: note$/;"	s
 type: note	20200930175032-rewrite_the_past.md	/^type: note$/;"	s
 type: note	20201010165049-spaced_repition_systems_and_flashcards.md	/^type: note$/;"	s
 type: note	20201010165249-flashcards.md	/^type: note$/;"	s
+type: note	20201010172915-pronunciation_and_broken_words.md	/^type: note$/;"	s
+type: note	20201010173941-minimal_pair_testing_.md	/^type: note$/;"	s
+type: note	20201011185351-back-chaining.md	/^type: note$/;"	s
+type: note	20201012170348-learn_important_words_first.md	/^type: note$/;"	s
+type: note	20201013010729-language_grammar.md	/^type: note$/;"	s
+type: note	20201014150909-pao-person-action-object.md	/^type: note$/;"	s
+type: note	20201016160245-thematic_vocabulary.md	/^type: note$/;"	s
+type: note	20201016163515-input_sources.md	/^type: note$/;"	s
+type: note	20201016164126-speaking_in_target_language_always_.md	/^type: note$/;"	s
+type: note	20201017155430-learn_language_with_flashcards.md	/^type: note$/;"	s
 variation	zettelkasten.md	/^## variation$/;"	s
+vocabulary	zettelkasten.md	/^## vocabulary$/;"	s

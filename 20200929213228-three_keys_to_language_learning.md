@@ -29,8 +29,9 @@ type: note
     gaps.
   - **Phrase Book**: A book for people visiting a foreign country, listing useful expressions in the language of the country together with their equivalent in the visitor's own language.
   - **Frequency Dictionary**: A dictionary with the most used words for a language.
-  - **Pronounciation Guide**: It teaches you how pronounce the words and IPA sounds.
+  - **Pronunciation Guide**: It teaches you how pronounce the words and IPA sounds.
   - **Bilingual and monolingual dictionary**: As it said.
+
 
 
 Backlink:

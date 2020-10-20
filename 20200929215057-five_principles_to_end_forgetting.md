@@ -1,7 +1,7 @@
 ---
 title: Five Principles to End Forgetting
 date: 2020-09-29 21:50
-tags: :learning:language:principles:literature-note:
+tags: :learning:language:principle:literature-note:
 type: note
 ---
 

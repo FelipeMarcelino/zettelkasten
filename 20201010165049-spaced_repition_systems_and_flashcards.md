@@ -1,7 +1,7 @@
 ---
 title: Spaced Repetition Systems and Flashcards
 date: 2020-10-10 16:50
-tags: :anki:spaced-repetition:flashcars:literature-note:learn:
+tags: :anki:spaced-repetition:flashcars:literature-note:learning:
 type: note
 ---
 
@@ -18,6 +18,7 @@ type: note
   * Thirty minutes is enough to review almost 30 cards.
 * A unique word can generate more than one card
   * Some words may involve a small handful of cards
+  * [Learn Important Words First](20201012170348-learn_important_words_first.md)
 * Use Google images to boost your cards
 * Card:
   * Comprehension card (bear = ?)

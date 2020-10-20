@@ -1,7 +1,7 @@
 ---
 title: Maximize Laziness
 date: 2020-09-30 17:24
-tags: :principle:literature-note:learning:how-remenber-things:literature-note:
+tags: :principle:literature-note:learning:how-remember-things:literature-note:
 type: note
 ---
 
