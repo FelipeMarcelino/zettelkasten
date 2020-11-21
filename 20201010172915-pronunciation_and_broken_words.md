@@ -49,6 +49,9 @@ type: note
 * In the process, approach foreign sounds and complex patterns from as many angles as you can -- from their spelling to
   their sounds, even down to the individual mouth positions used for each sound. You're taking advantage of one of the
   stranger quirks of learning: the more bits and pieces you learn, the less work it takes to learn them
+* Try to understand sounds that are difficult to hear, use minimal pairs for this
+* Keep imitating your recordings while you're paying attention to your tongue, lips, and throat until you roughly
+  understand how to for each sound
 
 Backlink: [Make Memories More Memorable](20200929215147-make_memories_more_memorable.md)
 ----

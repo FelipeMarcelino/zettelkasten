@@ -18,7 +18,7 @@ book	20200924161528-reinforcement_learning_.md	4;"	vimwiki:20200924161528-reinfo
 example	20200928183306-multi-armed_bandits_.md	4;"	vimwiki:20200928183306-multi-armed_bandits_\t20200928183306-multi-armed_bandits_#example
 exercises	20200924180156-exercises_rl_sutton.md	4;"	vimwiki:20200924180156-exercises_rl_sutton\t20200924180156-exercises_rl_sutton#exercises
 exploration	20200929194903-upper-confidence-bound_action_selection.md	4;"	vimwiki:20200929194903-upper-confidence-bound_action_selection\t20200929194903-upper-confidence-bound_action_selection#exploration
-flashcard	20201017155430-learn_language_with_flashcards.md	4;"	vimwiki:20201017155430-learn_language_with_flashcards\t20201017155430-learn_language_with_flashcards#flashcard
+flashcard	20201017155430-learn_language_with_flashcards.md	3;"	vimwiki:20201017155430-learn_language_with_flashcards\t20201017155430-learn_language_with_flashcards#flashcard
 flashcars	20201010165049-spaced_repition_systems_and_flashcards.md	4;"	vimwiki:20201010165049-spaced_repition_systems_and_flashcards\t20201010165049-spaced_repition_systems_and_flashcards#flashcars
 fluent	20201010172915-pronunciation_and_broken_words.md	4;"	vimwiki:20201010172915-pronunciation_and_broken_words\t20201010172915-pronunciation_and_broken_words#fluent
 grammar	20201013010729-language_grammar.md	4;"	vimwiki:20201013010729-language_grammar\t20201013010729-language_grammar#grammar
@@ -42,7 +42,7 @@ language	20201014150909-pao-person-action-object.md	5;"	vimwiki:20201014150909-p
 language	20201016160245-thematic_vocabulary.md	4;"	vimwiki:20201016160245-thematic_vocabulary\t20201016160245-thematic_vocabulary#language
 language	20201016163515-input_sources.md	4;"	vimwiki:20201016163515-input_sources\t20201016163515-input_sources#language
 language	20201016164126-speaking_in_target_language_always_.md	4;"	vimwiki:20201016164126-speaking_in_target_language_always_\t20201016164126-speaking_in_target_language_always_#language
-language	20201017155430-learn_language_with_flashcards.md	4;"	vimwiki:20201017155430-learn_language_with_flashcards\t20201017155430-learn_language_with_flashcards#language
+language	20201017155430-learn_language_with_flashcards.md	3;"	vimwiki:20201017155430-learn_language_with_flashcards\t20201017155430-learn_language_with_flashcards#language
 learn	20201010172915-pronunciation_and_broken_words.md	4;"	vimwiki:20201010172915-pronunciation_and_broken_words\t20201010172915-pronunciation_and_broken_words#learn
 learn	20201016160245-thematic_vocabulary.md	4;"	vimwiki:20201016160245-thematic_vocabulary\t20201016160245-thematic_vocabulary#learn
 learning	20200929213228-three_keys_to_language_learning.md	4;"	vimwiki:20200929213228-three_keys_to_language_learning\t20200929213228-three_keys_to_language_learning#learning
@@ -58,7 +58,7 @@ learning	20201014150909-pao(person-action-object).md	4;"	vimwiki:20201014150909-
 learning	20201014150909-pao-person-action-object.md	5;"	vimwiki:20201014150909-pao-person-action-object\t20201014150909-pao-person-action-object#learning
 learning	20201016163515-input_sources.md	4;"	vimwiki:20201016163515-input_sources\t20201016163515-input_sources#learning
 learning	20201016164126-speaking_in_target_language_always_.md	4;"	vimwiki:20201016164126-speaking_in_target_language_always_\t20201016164126-speaking_in_target_language_always_#learning
-learning	20201017155430-learn_language_with_flashcards.md	4;"	vimwiki:20201017155430-learn_language_with_flashcards\t20201017155430-learn_language_with_flashcards#learning
+learning	20201017155430-learn_language_with_flashcards.md	3;"	vimwiki:20201017155430-learn_language_with_flashcards\t20201017155430-learn_language_with_flashcards#learning
 listening	20201016163515-input_sources.md	4;"	vimwiki:20201016163515-input_sources\t20201016163515-input_sources#listening
 literature-note	20200924161528-reinforcement_learning_.md	4;"	vimwiki:20200924161528-reinforcement_learning_\t20200924161528-reinforcement_learning_#literature-note
 literature-note	20200928183439-exploration_and_exploitation.md	4;"	vimwiki:20200928183439-exploration_and_exploitation\t20200928183439-exploration_and_exploitation#literature-note
@@ -79,7 +79,7 @@ literature-note	20201013010729-language_grammar.md	4;"	vimwiki:20201013010729-la
 literature-note	20201016160245-thematic_vocabulary.md	4;"	vimwiki:20201016160245-thematic_vocabulary\t20201016160245-thematic_vocabulary#literature-note
 literature-note	20201016163515-input_sources.md	4;"	vimwiki:20201016163515-input_sources\t20201016163515-input_sources#literature-note
 literature-note	20201016164126-speaking_in_target_language_always_.md	4;"	vimwiki:20201016164126-speaking_in_target_language_always_\t20201016164126-speaking_in_target_language_always_#literature-note
-literature-note	20201017155430-learn_language_with_flashcards.md	4;"	vimwiki:20201017155430-learn_language_with_flashcards\t20201017155430-learn_language_with_flashcards#literature-note
+literature-note	20201017155430-learn_language_with_flashcards.md	3;"	vimwiki:20201017155430-learn_language_with_flashcards\t20201017155430-learn_language_with_flashcards#literature-note
 memorize	20201014150909-pao(person-action-object).md	4;"	vimwiki:20201014150909-pao(person-action-object)\t20201014150909-pao(person-action-object)#memorize
 memorize	20201014150909-pao-person-action-object.md	5;"	vimwiki:20201014150909-pao-person-action-object\t20201014150909-pao-person-action-object#memorize
 method	20200928190836-action-value_methods.md	4;"	vimwiki:20200928190836-action-value_methods\t20200928190836-action-value_methods#method

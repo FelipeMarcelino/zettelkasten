@@ -1,28 +1,34 @@
 
 
-
-
 # Unlinked Notes
 
-- [Speaking In Target Language Always](20201016164126-speaking_in_target_language_always_.md)
-
-- [Input Sources](20201016163515-input_sources.md)
-
-- [Language's Grammar](20201013010729-language_grammar.md)
-
-- [Learn Important Words First](20201012170348-learn_important_words_first.md)
--
-- [Spaced Repetition Systems and Flashcards](20201010165049-spaced_repition_systems_and_flashcards.md)
-
-- [Make Memories More Memorable](20200929215147-make_memories_more_memorable.md)
-
-- [Five Principles to End Forgetting](20200929215057-five_principles_to_end_forgetting.md)
-
-- [Important Keys to Language Learning](20200929213228-three_keys_to_language_learning.md)
-
+- [Back-chaining](20201011185351-back-chaining.md)
 - [Exercises Sutton](20200924180156-exercises_rl_sutton.md)
-
-- [Reinforcement Learning ](20200924161528-reinforcement_learning_.md)
+- [PAO(Person-Action-Object)](20201014150909-pao-person-action-object.md)
+- [Value-Method Incremental Implementation](20200929172744-value-method_incremental_implementation.md)
+- [Multi-Armed Bandits](20200928183306-multi-armed_bandits_.md)
+- [Important Keys to Language Learning](20200929213228-three_keys_to_language_learning.md)
+- [Don't review. Recall!](20200930173441-don't_review_recall.md)
+- [Flashcards](20201010165249-flashcards.md)
+- [Wait, Wait! Don't Tell Me](20200930174635-wait_wait_don't_tell_me.md)
+- [Minimal Pair Testing](20201010173941-minimal_pair_testing_.md)
+- [Reinforcement Learning](20200924161528-reinforcement_learning_.md)
+- [Make Memories More Memorable](20200929215147-make_memories_more_memorable.md)
+- [Learn Language with Flashcards](20201017155430-learn_language_with_flashcards.md)
+- [Spaced Repetition Systems and Flashcards](20201010165049-spaced_repition_systems_and_flashcards.md)
+- [Thematic Vocabulary](20201016160245-thematic_vocabulary.md)
+- [Exploration and Exploitation.](20200928183439-exploration_and_exploitation.md)
+- [Speaking In Target Language Always](20201016164126-speaking_in_target_language_always_.md)
+- [Maximize Laziness](20200930172453-maximize_laziness.md)
+- [Action-Value Methods](20200928190836-action-value_methods.md)
+- [Upper-Confidence-Bound Action Selection](20200929194903-upper-confidence-bound_action_selection.md)
+- [Five Principles to End Forgetting](20200929215057-five_principles_to_end_forgetting.md)
+- [Pronunciation and Broken Words](20201010172915-pronunciation_and_broken_words.md)
+- [Optimistic Initial Values](20200929192801-optimistic_initital_values.md)
+- [Learn Important Words First](20201012170348-learn_important_words_first.md)
+- [Input Sources](20201016163515-input_sources.md)
+- [Rewrite The Past](20200930175032-rewrite_the_past.md)
+- [Language's Grammar](20201013010729-language_grammar.md)
 
 
 
@@ -43,7 +49,6 @@
 
 ## anki
 
-- [Flashcards](20201010165249-flashcards.md)
 - [Spaced Repetition Systems and Flashcards](20201010165049-spaced_repition_systems_and_flashcards.md)
 
 ## armed-bandits
@@ -72,7 +77,7 @@
 
 ## flashcard
 
-- [Flashcards](20201010165249-flashcards.md)
+- [Learn Language with Flashcards](20201017155430-learn_language_with_flashcards.md)
 
 ## flashcars
 
@@ -109,6 +114,7 @@
 
 ## language
 
+- [Learn Language with Flashcards](20201017155430-learn_language_with_flashcards.md)
 - [Speaking In Target Language Always](20201016164126-speaking_in_target_language_always_.md)
 - [Input Sources](20201016163515-input_sources.md)
 - [Thematic Vocabulary](20201016160245-thematic_vocabulary.md)
@@ -130,6 +136,7 @@
 
 ## learning
 
+- [Learn Language with Flashcards](20201017155430-learn_language_with_flashcards.md)
 - [Speaking In Target Language Always](20201016164126-speaking_in_target_language_always_.md)
 - [Input Sources](20201016163515-input_sources.md)
 - [PAO(Person-Action-Object)](20201014150909-pao-person-action-object.md)
@@ -149,6 +156,7 @@
 
 ## literature-note
 
+- [Learn Language with Flashcards](20201017155430-learn_language_with_flashcards.md)
 - [Speaking In Target Language Always](20201016164126-speaking_in_target_language_always_.md)
 - [Input Sources](20201016163515-input_sources.md)
 - [Thematic Vocabulary](20201016160245-thematic_vocabulary.md)
@@ -220,7 +228,6 @@
 
 ## spaced-repetition
 
-- [Flashcards](20201010165249-flashcards.md)
 - [Spaced Repetition Systems and Flashcards](20201010165049-spaced_repition_systems_and_flashcards.md)
 
 ## system
